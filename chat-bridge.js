@@ -1,4 +1,6 @@
 /**
+ * I APOLOGISE IN ADVANCE THIS WAS VIBECODED AT 2AM TILL IT WORKED.
+ * 
  * Socket.IO -> Discord chat bridge (guest-visible global chat version)
  * 
  * Strategy:
